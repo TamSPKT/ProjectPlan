@@ -32,6 +32,28 @@
 
 <article>
     <h1>DANH SÁCH THÀNH VIÊN</h1>
+    <table id='tableMembers'>
+        <tr>
+            <td><strong>Họ tên</strong></td>
+            <td><strong>MSSV</strong></td>
+        </tr>
+        <tr>
+            <td>Võ Trần Minh Quân</td>
+            <td>18110344</td>
+        </tr>
+        <tr>
+            <td>Nguyễn Quốc Ninh</td>
+            <td>18110332</td>
+        </tr>
+        <tr>
+            <td>Tạ Thị Mai Hương</td>
+            <td>18110298</td>
+        </tr>
+        <tr>
+            <td>Trần Đăng Tâm</td>
+            <td>18110359</td>
+        </tr>
+    </table>
 </article>
 
 <footer>
